@@ -3,7 +3,7 @@ import React from "react";
 function Mission() {
   return (
     <section className=" container-wrapper">
-      <div className=" flex justify-between items-center flex-col-reverse sm:flex-row">
+      <div className=" flex justify-between items-center flex-col-reverse sm:flex-row-reverse">
         <div className="w-full">
           <img src="images/logo.png" alt="" />
         </div>
