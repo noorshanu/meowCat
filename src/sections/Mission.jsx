@@ -5,7 +5,7 @@ function Mission() {
     <section className=" container-wrapper">
       <div className=" flex justify-between items-center flex-col-reverse sm:flex-row">
         <div className="w-full">
-          <img src="images/about2.png" alt="" />
+          <img src="images/logo.png" alt="" />
         </div>
 
         <div className=" bg-white border-2   py-8 px-4 rounded-2xl shadow-xl max-w-2xl ">

@@ -7,6 +7,7 @@ import MemeMark from "./sections/MemeMark";
 import Footer from "./sections/Footer";
 // import Music from "./nubshiba.mp3";
 import Mission from "./sections/Mission";
+import AboutUs from "./sections/AboutUs";
 
 // const Popup = ({ onClose }) => {
 //   return (
@@ -63,21 +64,26 @@ function AppLayout() {
           </button>
         
         </div> */}
-        <a href="https://solscan.io/token/H9oU2xVGUbiU9b8HWRudEHgFTL11tmyUzNscPhbp7TFc" target="_blank"
-         className="bg-[#c74786]  text-black font-bold py-2 px-2 sm:px-16 border-2  sm:text-2xl text-xs rounded-full   flex justify-center w-[360px] sm:w-[680px] mx-auto">H9oU2xVGUbiU9b8HWRudEHgFTL11tmyUzNscPhbp7TFc</a>
-      
-
-      
+        <a
+          href="https://solscan.io/token/H9oU2xVGUbiU9b8HWRudEHgFTL11tmyUzNscPhbp7TFc"
+          target="_blank"
+          className="bg-[#c74786]  text-black font-bold py-2 px-2 sm:px-16 border-2  sm:text-2xl text-xs rounded-full   flex justify-center w-[360px] sm:w-[680px] mx-auto"
+        >
+          H9oU2xVGUbiU9b8HWRudEHgFTL11tmyUzNscPhbp7TFc
+        </a>
       </main>
 
       {/* <MemeMark /> */}
 
       <div>
+        <div>
+          <AboutUs/>
+        </div>
         <dl className="h-[50px]" />
         <Intro />
         <dl className="h-[50px]" />
 
-        <Mission/>
+        <Mission />
         {/* <div>
           <Photo/>
         </div> */}
