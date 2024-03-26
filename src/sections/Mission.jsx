@@ -13,7 +13,7 @@ function Mission() {
 
           <p className=" text-lg sm:text-xl "> 
             To the moon we aim, no bumps, just zoom! It's  moon day, a
-             celebration in full sway. Yes, yes, to the moon NubShib
+             celebration in full sway. Yes, yes, to the moon 
             flies, today's the day, no lies. So, you in for this moon ride?
           </p>
         </div>
