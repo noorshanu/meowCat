@@ -9,7 +9,7 @@ function Mission() {
         </div>
 
         <div className=" bg-white border-2   py-8 px-4 rounded-2xl shadow-xl max-w-2xl ">
-          <h1 className=" font-kid font-bold text-3xl sm:text-5xl my-3">$NUBS Mission</h1>
+          <h1 className=" font-kid font-bold text-3xl sm:text-5xl my-3">$MCAT Mission</h1>
 
           <p className=" text-lg sm:text-xl "> 
           At MEOWCAT, we're not just about making a quick scratch; we're in it for the long haul! Our roadmap is as clear as a crystal litter box, filled with exciting content, launch, partnership, exchange listing and plans to propel our journey forward.
