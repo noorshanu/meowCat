@@ -4,7 +4,7 @@ import { FaTwitter, FaTelegram } from "react-icons/fa";
 const Footer = () => {
   return (
     <footer className=" w-full pb-8 relative z-10 ">
-      <img src="images/foot.png" alt=""  className=" mx-auto" />
+      {/* <img src="images/foot.png" alt=""  className=" mx-auto" /> */}
       <div className="container-wrapper mt-8 ">
         {/* <p className="   mx-auto mb-2 lg:mb-3 text-xl sm:text-2xl  ">
         Legal Disclaimer: $NUBS is a meme coin for fun, with no real value or profit expectation. By buying $NUBS, you agree you've read and understood this.
