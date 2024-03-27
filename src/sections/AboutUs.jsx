@@ -13,9 +13,7 @@ function AboutUs() {
         <h1 className=" font-kid font-bold text-3xl sm:text-5xl my-3">About Us</h1>
 
         <p className=" text-lg sm:text-xl "> 
-          To the moon we aim, no bumps, just zoom! It's MEOWCAT moon day, a
-          MEOWCAT celebration in full sway. Yes, yes, to the moon MEOWCAT
-          flies, today's the day, no lies. So, you in for this moon ride?
+        In MEOWCAT meme world the  memes are fresh, the trading's sleek, and the rewards are as shiny as a catnip-filled toy! It is not just another coin; we're the purr-fect blend of charm, wit, and feline finesse in the Solana universe!
         </p>
       </div>
     </div>
